@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Momita/code/MauroSandoval/TaxiFareModel/mlruns/1/e05ae30bd4dd40a8b0d687bf7b43f8da/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e05ae30bd4dd40a8b0d687bf7b43f8da
+run_uuid: e05ae30bd4dd40a8b0d687bf7b43f8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1630625753667
+status: 1
+tags: []
+user_id: unknown
